@@ -1,0 +1,42 @@
+{
+"Resume" :{
+"name"   :"premkumar",
+"email"  :"premrsm2000@gmail.com",
+"phoneno": "875491****",
+"summary": "to get job in the reputed company for better positon"
+},
+
+"AcademicBackground":[{
+    "degree" : "UG",
+    "institute":"SSM institute of engineering and technology",
+    "dept" : "mechanical",
+    "CGPA" :"7.55%"
+},
+{
+    "degree": "HSC",
+    "institute":"skv metric higher secondary school,tiruchengode",
+    "percentage":"63%"
+},
+{
+    "degree": "SSLC",
+    "institute":"veveaham metric school,dharapuram",
+    "percentage":"77%"
+}
+],
+"projects" :[
+{
+        "title": "Hbrid electric vehicle",
+        "description": "it is used to light weight engine to move fast the veicle".
+},
+
+{
+    "title": "5s implementation",
+    "description":"5s implementation it is used to arrange and go in proper manner in the company"
+}
+],
+"skills":{
+    "frontend":"html,css,bootstrap",
+    "back end":"react.js,node.js"
+},
+    "language": "Tamil,English"
+}
